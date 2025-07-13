@@ -1,29 +1,23 @@
 <!-- Lungelo Mavundla GitHub Profile README -->
 
-# 👋 Hi, I'm Lungelo Mavundla
+# 💫 About Me:
+🧠 Currently studying Software Development at CodeSpace<br>🎯 My short-term goal is to become a Junior Front-End Developer by July 2024<br>🔐 I'm also studying Cybersecurity part-time to expand into a dual skillset<br>👩🏽‍💻 I enjoy mentoring and aspire to help more young girls get into tech<br>🌱 Always learning and improving – currently exploring JavaScript, Tailwind CSS, and React<br>
 
-🎓 I'm a passionate **Software Development Student** focused on **Front-End Development** and growing my skills in **Cybersecurity**.  
-💻 I love building clean, user-friendly interfaces and learning how to secure digital systems.
+
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/lungelo_mav) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/starboyprettymfana) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/starboy prettymfana)
+
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=26Starboy&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=26Starboy&theme=merko&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=26Starboy&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=26Starboy&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 💡 About Me
-
-- 🧠 Currently studying Software Development at CodeSpace
-- 🎯 My short-term goal is to become a **Junior Front-End Developer** by July 2024
-- 🔐 I'm also studying **Cybersecurity** part-time to expand into a dual skillset
-- 👩🏽‍💻 I enjoy mentoring and aspire to help more young girls get into tech
-- 🌱 Always learning and improving – currently exploring **JavaScript**, **Tailwind CSS**, and **React**
-
----
-
-## 🛠️ Tech Stack & Tools
-
-| Front-End | Styling | Back-End & Tools | Other |
-|-----------|---------|------------------|-------|
-| HTML5     | Tailwind CSS | Firebase        | Git & GitHub |
-| CSS3      | Responsive Design | Markdown        | VS Code |
-| JavaScript | UI Design | Chrome DevTools | Figma |
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ---
 
@@ -31,14 +25,11 @@
 
 Here are some projects that showcase what I’ve been working on:
 
-[![Portfolio Site](https://img.shields.io/badge/Portfolio%20Site-Live-green)](https://github.com/YourUsername/portfolio-project)  
+[![Portfolio Site](https://github.com/26Starboy/LUNMAV25489_fto2505_B_Lungelo-Mavundla_SDF_Portfolio-Piece)]  
 🔗 _A personal portfolio site showcasing my skills and projects_
 
-[![Kanban Board](https://img.shields.io/badge/Kanban%20Board--blue)](https://github.com/YourUsername/kanban-board)  
+[![Kanban Board](https://github.com/26Starboy/JSL01-LUNMAV25489_FTO2505_B_Lungelo-Mavundla_JSL01)  
 🧩 _A responsive task management board built with HTML, Tailwind, and JavaScript_
-
-[![Firebase Auth App](https://img.shields.io/badge/Firebase%20App--orange)](https://github.com/YourUsername/firebase-auth-app)  
-🔐 _A basic app using Firebase authentication_
 
 ---
 
@@ -76,7 +67,6 @@ I'm always open to collaboration, mentoring opportunities, or a quick chat about
 
 - 📧 Email: staboypretty333@gmail.com
 - 🌐 Portfolio: [lungelomavundla.dev](https://github.com/26Starboy/LUNMAV25489_fto2505_B_Lungelo-Mavundla_SDF_Portfolio-Piece) 
-- 💼 LinkedIn: https://www.linkedin.com/in/starboy-prettymfana-31828a289/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BvCfhMUB1QOy1HvyzbC2Wow%3D%3D
 - 🐙 GitHub: [@YourUsername](https://github.com/26Starboy)
 
 ---
@@ -87,5 +77,5 @@ I'm always open to collaboration, mentoring opportunities, or a quick chat about
 - 🅧 @prettymfana 
 ---
 
-> “Your future is created by what you do today, not tomorrow.” – Robert Kiyosaki
-
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
