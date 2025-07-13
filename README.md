@@ -17,7 +17,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=26Starboy&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ---
 
@@ -33,21 +32,11 @@ Here are some projects that showcase what I’ve been working on:
 
 ---
 
-## 📈 GitHub Stats
-
-enter">
-  <img src="https://github-readme-stats.vercel.app/api?username=26Starboy&show_icons=true&theme=default" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=26Starboy&layout=compact&theme=default" width="300"/>
-</p>
-
-
----
-
 ## 🔍 Career Goals
 
 ### Short-Term (1–2 Years)
 
-- ✅ Complete my Software Development course by **July 2024**
+- ✅ Complete my Software Development course by **November 2025**
 - 🧠 Enroll in a **Cybersecurity** program part-time
 - 👩🏽‍💻 Secure a **Junior Developer** role
 - 🌍 Continue building real-world projects to grow my experience
@@ -56,7 +45,7 @@ enter">
 
 - 🔐 Build a career in **Cybersecurity**
 - 💼 Take on freelance projects in both web and security
-- 🧒 Start a mentoring program for young girls interested in coding and tech
+- 🧒 Start a mentoring program for young girl interested in coding and tech
 - 🌟 Contribute to open-source or community-based projects
 
 ---
