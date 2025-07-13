@@ -37,7 +37,7 @@ Here are some projects that showcase what I’ve been working on:
 ### Short-Term (1–2 Years)
 
 - ✅ Complete my Software Development course by **November 2025**
-- 🧠 Enroll in a **Cybersecurity** program part-time
+- 🧠 Start a challenging project in a **Cybersecurity** program.
 - 👩🏽‍💻 Secure a **Junior Developer** role
 - 🌍 Continue building real-world projects to grow my experience
 
