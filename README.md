@@ -1,7 +1,7 @@
 <!-- Lungelo Mavundla GitHub Profile README -->
 
 # 💫 About Me:
-🧠 Currently studying Software Development at CodeSpace<br>🎯 My short-term goal is to become a Junior Front-End Developer by November 2025<br>🔐 I'm also studying Cybersecurity part-time to expand into a dual skillset<br>👩🏽‍💻 I enjoy mentoring and aspire to help more young boys get into tech<br>🌱 Always learning and improving – currently exploring JavaScript, Tailwind CSS, and React<br>
+🧠 Currently studying Software Development at CodeSpace Academy<br>🎯 My short-term goal is to become a Junior Front-End Developer by November 2025<br>🔐 I'm also studying Cybersecurity part-time to expand into a dual skillset<br>👩🏽‍💻 I enjoy mentoring and aspire to help more young boys get into tech<br>🌱 Always learning and improving – currently exploring JavaScript, Tailwind CSS, and React<br>
 
 
 ## 🌐 Socials:
